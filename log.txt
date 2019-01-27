@@ -1,0 +1,20 @@
+movie-this ,"Mr.Nobody"
+MOVIE DETAILS
+----------------------
+ * Title : Mr. Nobody
+ * Year : 2009
+ * IMDB Rating : 7.9
+ * Rotten Tomatoes Rating : 67% * Country : Belgium, Germany, Canada, France, USA, UK
+ * Languages : English, Mohawk
+ * Actors : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ * Plot : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+movie-this ,"frozen"
+MOVIE DETAILS
+----------------------
+ * Title : Frozen
+ * Year : 2013
+ * IMDB Rating : 7.5
+ * Rotten Tomatoes Rating : 90% * Country : USA
+ * Languages : English, Norwegian
+ * Actors : Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+ * Plot : When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
