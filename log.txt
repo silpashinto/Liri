@@ -1,43 +1,3 @@
-movie-this ,"Mr.Nobody"
-MOVIE DETAILS
-----------------------
- * Title : Mr. Nobody
- * Year : 2009
- * IMDB Rating : 7.9
- * Rotten Tomatoes Rating : 67% * Country : Belgium, Germany, Canada, France, USA, UK
- * Languages : English, Mohawk
- * Actors : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
- * Plot : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-movie-this ,"frozen"
-MOVIE DETAILS
-----------------------
- * Title : Frozen
- * Year : 2013
- * IMDB Rating : 7.5
- * Rotten Tomatoes Rating : 90% * Country : USA
- * Languages : English, Norwegian
- * Actors : Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
- * Plot : When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
-movie-this ,"Mr.Nobody"
-MOVIE DETAILS
-----------------------
- * Title : Mr. Nobody
- * Year : 2009
- * IMDB Rating : 7.9
- * Rotten Tomatoes Rating : 67% * Country : Belgium, Germany, Canada, France, USA, UK
- * Languages : English, Mohawk
- * Actors : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
- * Plot : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-movie-this ,"frozen"
-MOVIE DETAILS
-----------------------
- * Title : Frozen
- * Year : 2013
- * IMDB Rating : 7.5
- * Rotten Tomatoes Rating : 90% * Country : USA
- * Languages : English, Norwegian
- * Actors : Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
- * Plot : When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
 concert-this ,"justin"
 Upcoming concerts for justin: 
 -----------------------------------
@@ -59,197 +19,220 @@ SONG DETAILS
  * Preview link : https://p.scdn.co/mp3-preview/2be25a47a0d148df6c9ddf635e3437d24c126923?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : Stressed Out (Rock)
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,
- * Song's name : Stressed Out
- * Preview link : https://p.scdn.co/mp3-preview/c81ceecee0567af243f087767c5f2b5fae967831?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : Calm Zen Music
--------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,
  * Song's name : Stressed Out
  * Preview link : https://p.scdn.co/mp3-preview/f8bb659c83432f14e9001730c842b535690b6578?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : Beats, Rhymes & Life
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,
+ * Song's name : Stressed Out
+ * Preview link : https://p.scdn.co/mp3-preview/c81ceecee0567af243f087767c5f2b5fae967831?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Calm Zen Music
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,
  * Song's name : Stressed
  * Preview link : https://p.scdn.co/mp3-preview/8d074e96f23b992d8cef2df40dc3868b758066b5?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : Stressed
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,
  * Song's name : Broke & Stressed
  * Preview link : https://p.scdn.co/mp3-preview/6bb04b075975324eb1da9d61d31d700471e3bd07?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : Retroland II
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,
  * Song's name : Stressed Out
  * Preview link : https://p.scdn.co/mp3-preview/0da7e067707a250dc5156df922b4be75b23b856e?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : The Living Room Sessions Vol. 2
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,
  * Song's name : Stressed Out
  * Preview link : null
  * Album : Stressed Out
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,
  * Song's name : stressed
  * Preview link : https://p.scdn.co/mp3-preview/710b2892a5678e6b3edf60886be6da5f342a6cba?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : Complex Channel Collective Tapes Vol. 2
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,
  * Song's name : Stressed OUT!
  * Preview link : null
  * Album : Begin
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,
  * Song's name : Stressed Out
  * Preview link : null
  * Album : KIDZ BOP 32
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,
  * Song's name : Stressed Out
  * Preview link : https://p.scdn.co/mp3-preview/d72c18526e85c8a98896a0634f862a8169ab4f72?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : Squad Goals
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,
  * Song's name : Stressed Out
  * Preview link : https://p.scdn.co/mp3-preview/b134f1124021a20f99dd21333a55244153011752?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : The Anthology
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,
  * Song's name : Stressed Out
  * Preview link : https://p.scdn.co/mp3-preview/6516a6703bee90556236969221bddf6bbd462750?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : Covers
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Anthem Lights,
- * Song's name : “Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k”
- * Preview link : https://p.scdn.co/mp3-preview/d5ac6f228969f2ee899332ebf4c6a0e0f3fab511?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : “Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k”
--------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Anthem Lights,Bryce,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,
  * Song's name : i know u been stressed <3
  * Preview link : https://p.scdn.co/mp3-preview/b600ab710132fddabbab3d0a66a365ffcba0d2b0?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : i know u been stressed <3
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Anthem Lights,Bryce,Vitamin String Quartet,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,
+ * Song's name : “Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k”
+ * Preview link : https://p.scdn.co/mp3-preview/d5ac6f228969f2ee899332ebf4c6a0e0f3fab511?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : “Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k”
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,Vitamin String Quartet,
  * Song's name : Stressed Out
  * Preview link : https://p.scdn.co/mp3-preview/4c82e4e2089b048ee0f15f03e3ff3773a9eb5372?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : VSQ Performs the Hits of 2015, Vol. 3
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Anthem Lights,Bryce,Vitamin String Quartet,Aparna Nancherla,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,Vitamin String Quartet,Aparna Nancherla,
  * Song's name : Blessed to Be Stressed
  * Preview link : https://p.scdn.co/mp3-preview/bd5f0b4e809b7395a3e0904dd8d49b8b83e84e25?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : Just Putting It Out There
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Anthem Lights,Bryce,Vitamin String Quartet,Aparna Nancherla,Davey Love,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,Vitamin String Quartet,Aparna Nancherla,Davey Love,
  * Song's name : Stressed & Depressed
  * Preview link : https://p.scdn.co/mp3-preview/2b549b60037a0c02637a539228bc0ce0b457d110?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : Rough Around the Edges
 -------------------------------------
- * Artist(s) : Twenty One Pilots,Our Last Night,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,A Tribe Called Quest,Faith Evans,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Anthem Lights,Bryce,Vitamin String Quartet,Aparna Nancherla,Davey Love,Anthem Lights,
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,Vitamin String Quartet,Aparna Nancherla,Davey Love,Anthem Lights,
  * Song's name : Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k
  * Preview link : https://p.scdn.co/mp3-preview/d5ac6f228969f2ee899332ebf4c6a0e0f3fab511?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
  * Album : We Got You Covered, Vol. 2
 -------------------------------------
-spotify-this-song ,""I Want it That Way""
-
+spotify-this-song ,"stressed"
 SONG DETAILS 
 -------------------------------------
- * Artist(s) : Backstreet Boys,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : The Hits--Chapter One
+ * Artist(s) : Twenty One Pilots,
+ * Song's name : Stressed Out
+ * Preview link : https://p.scdn.co/mp3-preview/0e0951b811f06fea9162eb7e95e4bae4802d97af?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Blurryface
 -------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : Millennium
+ * Artist(s) : Twenty One Pilots,Our Last Night,
+ * Song's name : Stressed Out - Rock
+ * Preview link : https://p.scdn.co/mp3-preview/2be25a47a0d148df6c9ddf635e3437d24c126923?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Stressed Out (Rock)
 -------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : Covers Part IV
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,
+ * Song's name : Stressed Out
+ * Preview link : https://p.scdn.co/mp3-preview/f8bb659c83432f14e9001730c842b535690b6578?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Beats, Rhymes & Life
 -------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : Beautiful Dreams
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,
+ * Song's name : Stressed Out
+ * Preview link : https://p.scdn.co/mp3-preview/c81ceecee0567af243f087767c5f2b5fae967831?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Calm Zen Music
 -------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,
- * Song's name : I Want It That Way
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,
+ * Song's name : Stressed
+ * Preview link : https://p.scdn.co/mp3-preview/8d074e96f23b992d8cef2df40dc3868b758066b5?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Stressed
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,
+ * Song's name : Broke & Stressed
+ * Preview link : https://p.scdn.co/mp3-preview/6bb04b075975324eb1da9d61d31d700471e3bd07?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Retroland II
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,
+ * Song's name : Stressed Out
+ * Preview link : https://p.scdn.co/mp3-preview/0da7e067707a250dc5156df922b4be75b23b856e?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : The Living Room Sessions Vol. 2
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,
+ * Song's name : Stressed Out
  * Preview link : null
- * Album : Punk Goes Pop
+ * Album : Stressed Out
 -------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,
- * Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
- * Preview link : https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : Poodle Hat
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,
+ * Song's name : stressed
+ * Preview link : https://p.scdn.co/mp3-preview/710b2892a5678e6b3edf60886be6da5f342a6cba?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Complex Channel Collective Tapes Vol. 2
 -------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : 90 Sweet 90s Hits!
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : NKOTBSB
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,
- * Song's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
- * Preview link : https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : Bye Bye Bye / I Want It That Way (Glee Cast Version)
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : Cover Sessions, Vol. 2
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : I Want It That Way
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,Steel Panther,
- * Song's name : I Want It That Way
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,
+ * Song's name : Stressed OUT!
  * Preview link : null
- * Album : I Want It That Way
+ * Album : Begin
 -------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,Steel Panther,Scary Pockets,Casey Abrams,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : Nu Funk
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,Steel Panther,Scary Pockets,Casey Abrams,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : Selfies on Kodachrome
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,Steel Panther,Scary Pockets,Casey Abrams,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,"Weird Al" Yankovic,
- * Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
- * Preview link : https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : The Essential "Weird Al" Yankovic
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,Steel Panther,Scary Pockets,Casey Abrams,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,"Weird Al" Yankovic,#90s Update,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : #90s Update
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,Steel Panther,Scary Pockets,Casey Abrams,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,"Weird Al" Yankovic,#90s Update,Backstreet Boys,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : NOW That's What I Call 90s Pop
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,Steel Panther,Scary Pockets,Casey Abrams,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,"Weird Al" Yankovic,#90s Update,Backstreet Boys,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : PMJ Is For Lovers: The Love Song Collection
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,Steel Panther,Scary Pockets,Casey Abrams,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,"Weird Al" Yankovic,#90s Update,Backstreet Boys,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,Landon Austin & Julia Sheer,
- * Song's name : I Want It That Way
- * Preview link : https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
- * Album : I Want It That Way
--------------------------------------
- * Artist(s) : Backstreet Boys,Backstreet Boys,Anthem Lights,Tyler and Mark,Dynamite Boy,"Weird Al" Yankovic,Backstreet Boys,Backstreet Boys,Glee Cast,Boyce Avenue,Manuel Costa,Steel Panther,Scary Pockets,Casey Abrams,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,"Weird Al" Yankovic,#90s Update,Backstreet Boys,Scott Bradlee's Postmodern Jukebox,Shoshana Bean,Landon Austin & Julia Sheer,Kidz Bop Kids,
- * Song's name : I Want It That Way
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,
+ * Song's name : Stressed Out
  * Preview link : null
- * Album : Kidz Bop
+ * Album : KIDZ BOP 32
 -------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,
+ * Song's name : Stressed Out
+ * Preview link : https://p.scdn.co/mp3-preview/d72c18526e85c8a98896a0634f862a8169ab4f72?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Squad Goals
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,
+ * Song's name : Stressed Out
+ * Preview link : https://p.scdn.co/mp3-preview/b134f1124021a20f99dd21333a55244153011752?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : The Anthology
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,
+ * Song's name : Stressed Out
+ * Preview link : https://p.scdn.co/mp3-preview/6516a6703bee90556236969221bddf6bbd462750?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Covers
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,
+ * Song's name : i know u been stressed <3
+ * Preview link : https://p.scdn.co/mp3-preview/b600ab710132fddabbab3d0a66a365ffcba0d2b0?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : i know u been stressed <3
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,
+ * Song's name : “Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k”
+ * Preview link : https://p.scdn.co/mp3-preview/d5ac6f228969f2ee899332ebf4c6a0e0f3fab511?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : “Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k”
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,Vitamin String Quartet,
+ * Song's name : Stressed Out
+ * Preview link : https://p.scdn.co/mp3-preview/4c82e4e2089b048ee0f15f03e3ff3773a9eb5372?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : VSQ Performs the Hits of 2015, Vol. 3
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,Vitamin String Quartet,Aparna Nancherla,
+ * Song's name : Blessed to Be Stressed
+ * Preview link : https://p.scdn.co/mp3-preview/bd5f0b4e809b7395a3e0904dd8d49b8b83e84e25?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Just Putting It Out There
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,Vitamin String Quartet,Aparna Nancherla,Davey Love,
+ * Song's name : Stressed & Depressed
+ * Preview link : https://p.scdn.co/mp3-preview/2b549b60037a0c02637a539228bc0ce0b457d110?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : Rough Around the Edges
+-------------------------------------
+ * Artist(s) : Twenty One Pilots,Our Last Night,A Tribe Called Quest,Faith Evans,Zen Music Garden,Zen,Zen Meditation and Natural White Noise and New Age Deep Massage,Take a Daytrip,Octavian,Josh A,Kina Grannis,Ncredible Gang,Nick Cannon,hurlum,LION BABE,Kidz Bop Kids,Scott Bradlee's Postmodern Jukebox,Puddles Pity Party,A Tribe Called Quest,Faith Evans,Bars and Melody,Bryce,Anthem Lights,Vitamin String Quartet,Aparna Nancherla,Davey Love,Anthem Lights,
+ * Song's name : Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k
+ * Preview link : https://p.scdn.co/mp3-preview/d5ac6f228969f2ee899332ebf4c6a0e0f3fab511?cid=76c1cdecd5074d7ba03ef55cde1a2ff4
+ * Album : We Got You Covered, Vol. 2
+-------------------------------------
+movie-this ,"Mr.Nobody"
+MOVIE DETAILS
+----------------------
+ * Title : Mr. Nobody
+ * Year : 2009
+ * IMDB Rating : 7.9
+ * Rotten Tomatoes Rating : 67%
+ * Country : Belgium, Germany, Canada, France, USA, UK
+ * Languages : English, Mohawk
+ * Actors : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ * Plot : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+-------------------------------
+movie-this ,"frozen"
+MOVIE DETAILS
+----------------------
+ * Title : Frozen
+ * Year : 2013
+ * IMDB Rating : 7.5
+ * Rotten Tomatoes Rating : 90%
+ * Country : USA
+ * Languages : English, Norwegian
+ * Actors : Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+ * Plot : When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+-------------------------------

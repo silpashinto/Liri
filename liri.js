@@ -103,7 +103,7 @@ function spotifyThisSong(param) {
             .then(function (response) {
                 var items = response.tracks.items;
                 var artistsArr = [];
-                ouput += "\nSONG DETAILS \n-------------------------------------\n";
+                ouput += "SONG DETAILS \n-------------------------------------\n";
 
                 for (var j = 0; j < items.length; j++) {
 
@@ -155,8 +155,8 @@ function movieTthis(param) {
 
                 }
             });
-            ouput += ' * Country : ' + result.Country + '\n * Languages : ' + result.Language + '\n * Actors : ' + result.Actors + '\n * Plot : '
-                + result.Plot + '\n';
+            ouput += '\n * Country : ' + result.Country + '\n * Languages : ' + result.Language + '\n * Actors : ' + result.Actors + '\n * Plot : '
+                + result.Plot + '\n-------------------------------\n';
             console.log(ouput);
             logData('movie-this', param, ouput);
 
