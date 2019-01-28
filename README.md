@@ -39,4 +39,4 @@ The application logs the ouput to a .txt file called log.txt.
 
 Appropriate comments and error-checking has been added.
 
-[link to Output!](https://youtu.be/HZgnf0JIsM8)
+[link to the application demo!](https://youtu.be/HZgnf0JIsM8)
