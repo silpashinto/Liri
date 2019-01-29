@@ -33,7 +33,7 @@ The program also allows the user to make a search to the Spotify API, and gets b
 
 The application also provides the facility to search movies. The result lists movie information with the help of OMDb API using the axios NPM module. It returns a JSON object that includes title, year, IMDb rating, language, etc.
 
-The program also reads from a file called "random.text" and executes the command and query found there using string and array methods.
+The program also reads from a file called "random.txt" and executes the command and query found there.
 
 The application logs the ouput to a .txt file called log.txt.
 
